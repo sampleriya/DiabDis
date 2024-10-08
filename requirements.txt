@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+seaborn
+Flask
+gunicorn==19.7.1
